@@ -5,6 +5,7 @@
 * [Typescript](#typescript)
 * [PHP](#php)
 * [Design patterns](#design-patterns)
+* [React](#react)
 
 # Developer Roadmap
 * [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
@@ -26,3 +27,6 @@
 * [Learning JavaScript Design Patterns(Book)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 ## Typescript
 ## PHP
+
+# React
+* [Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
