@@ -10,6 +10,7 @@
 * [React](#react)
 * [Algorithms](#algorithms)
 * [Design patterns](#design-patterns)
+* [Scalability](#scalability)
 
 # Developer Roadmap
 * [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
@@ -42,6 +43,9 @@
 * [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
 
 # Design patterns
+* [A curated list of software and architecture related design patterns.](https://github.com/DovAmir/awesome-design-patterns#general-architecture)
+* [An ultra-simplified explanation to design patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Porto (Software Architectural Pattern)](https://github.com/Mahmoudz/Porto)
 ## JS
 * [An ultra-simplified explanation of design patterns implemented in javascript](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 * [Learning JavaScript Design Patterns(Book)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -49,6 +53,8 @@
 ## PHP
 ## Vue
 * [seful Vue patterns, techniques, tips and tricks and helpful curated links](https://github.com/learn-vuejs/vue-patterns)
-
-# React
+## React
 * [Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
+
+# Scalability
+* [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards](https://github.com/donnemartin/system-design-primer)
