@@ -1,5 +1,5 @@
 # Table of Contents
-* [Developer Roadmap](#developer-roadmap)
+* [Guides & Developer Roadmap](#developer-roadmap)
 * [Programming Principles](#programming-principles)
 * [Projects](#projects)
 * [Interviews](#interviews)
@@ -14,9 +14,13 @@
 * [Design patterns](#design-patterns)
 * [Scalability](#scalability)
 * [Services](#services)
+* [AWS](#aws)
+* [Jobs](#jobs)
 
-# Developer Roadmap
+# Guides & Developer Roadmap
 * [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
+* [A collection of full-stack resources for programmers.](https://github.com/charlax/professional-programming)
+* [A collection of (mostly) technical things every software developer should know](https://github.com/mtdvio/every-programmer-should-know)
 
 # Programming Principles
 * [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles)
@@ -31,9 +35,12 @@
 * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 * [curated collection of common interview questions to help you prepare for your next interview](https://github.com/30-seconds/30-seconds-of-interviews)
 * [curated awesome list of lists of interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [Here's How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
+* [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 # Books
 * [📚 Freely available programming books ](https://github.com/EbookFoundation/free-programming-books)
+* [Programming Notes for Professionals books](https://books.goalkicker.com/)
 
 # Clean code
 * [Clean Code concepts adapted for PHP](https://github.com/jupeter/clean-code-php)
@@ -49,6 +56,9 @@
 * [You Don't Know JS. A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
 * [Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [The Modern Javascript Tutorial](https://javascript.info/)
+
+# PHP
+* [A curated collection of useful PHP snippets that you can understand in 30 seconds or less.](https://github.com/appzcoder/30-seconds-of-php-code)
 
 # Algorithms
 * [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
@@ -72,3 +82,9 @@
 
 # Services
 * [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
+
+# AWS
+* [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws#api-gateway-basics)
+
+# Jobs
+* [Over 400 software engineering companies that are easy to apply to](https://github.com/j-delaney/easy-application)
