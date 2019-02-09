@@ -1,5 +1,6 @@
 # Table of Contents
 * [Developer Roadmap](#developer-roadmap)
+* [Programming Principles](#programming-principles)
 * [Projects](#projects)
 * [Interviews](#interviews)
 * [Clean code](#clean-code)
@@ -11,9 +12,14 @@
 * [Algorithms](#algorithms)
 * [Design patterns](#design-patterns)
 * [Scalability](#scalability)
+* [Services](#services)
 
 # Developer Roadmap
 * [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
+
+# Programming Principles
+* [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles)
+* [Principles Wiki](http://principles-wiki.net)
 
 # Projects
 * [A list of practical projects that anyone can solve in any programming language](https://github.com/karan/Projects)
@@ -21,6 +27,7 @@
 * [Rosetta Code](http://rosettacode.org)
 
 # Interviews
+* [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 * [curated collection of common interview questions to help you prepare for your next interview](https://github.com/30-seconds/30-seconds-of-interviews)
 * [curated awesome list of lists of interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
@@ -58,3 +65,6 @@
 
 # Scalability
 * [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards](https://github.com/donnemartin/system-design-primer)
+
+# Services
+* [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
