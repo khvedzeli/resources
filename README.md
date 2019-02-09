@@ -3,6 +3,7 @@
 * [Programming Principles](#programming-principles)
 * [Projects](#projects)
 * [Interviews](#interviews)
+* [Books](#books)
 * [Clean code](#clean-code)
 * [Best practices](#best-practices)
 * [Javascript](#javascript)
@@ -30,6 +31,9 @@
 * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 * [curated collection of common interview questions to help you prepare for your next interview](https://github.com/30-seconds/30-seconds-of-interviews)
 * [curated awesome list of lists of interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+# Books
+* [📚 Freely available programming books ](https://github.com/EbookFoundation/free-programming-books)
 
 # Clean code
 * [Clean Code concepts adapted for PHP](https://github.com/jupeter/clean-code-php)
