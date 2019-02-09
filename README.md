@@ -37,6 +37,7 @@
 * [curated awesome list of lists of interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [Here's How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 * [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
 
 # Books
 * [📚 Freely available programming books ](https://github.com/EbookFoundation/free-programming-books)
