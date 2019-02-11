@@ -11,10 +11,12 @@
 * [PHP](#php)
 * [React](#react)
 * [Algorithms](#algorithms)
+* [Machine learning](#machine-learning)
 * [Design patterns](#design-patterns)
 * [Scalability](#scalability)
 * [Services](#services)
 * [AWS](#aws)
+* [Lists](#lists)
 * [Jobs](#jobs)
 
 # Guides & Developer Roadmap
@@ -64,6 +66,10 @@
 # Algorithms
 * [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
 
+# Machine Learning
+* [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+* [A complete daily plan for studying to become a machine learning engineer.](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+
 # Design patterns
 * [A curated list of software and architecture related design patterns.](https://github.com/DovAmir/awesome-design-patterns#general-architecture)
 * [An ultra-simplified explanation to design patterns](https://github.com/kamranahmedse/design-patterns-for-humans)
@@ -86,6 +92,9 @@
 
 # AWS
 * [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws#api-gateway-basics)
+
+# Lists
+* [📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.](https://github.com/postlight/awesome-cms)
 
 # Jobs
 * [Over 400 software engineering companies that are easy to apply to](https://github.com/j-delaney/easy-application)
