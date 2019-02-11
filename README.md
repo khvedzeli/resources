@@ -65,6 +65,8 @@
 
 # Algorithms
 * [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
+* [JavaScript Algorithms and Data Structures Masterclass](https://coursehunters.net/course/javascript-algoritmy-i-struktury-dannyh-master-klass)
+* [The Coding Interview Bootcamp: Algorithms + Data Structures](https://coursehunters.net/course/podgotovka-k-sobesedovaniyu-algoritmy-i-struktury-dannyh)
 
 # Machine Learning
 * [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
