@@ -98,7 +98,8 @@
 * [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws#api-gateway-basics)
 
 # Devops
-* [**Docker Mastery: The Complete Toolset From a Docker Captain**](https://coursehunters.net/course/docker-mastery-polnyy-nabor-instrumentov-ot-kapitana-dokera)
+* [Docker Mastery: The Complete Toolset From a Docker Captain](https://coursehunters.net/course/docker-mastery-polnyy-nabor-instrumentov-ot-kapitana-dokera)
+* [**Docker and Kubernetes: The Complete Guide**](https://coursehunters.net/course/docker-i-kubernetes-polnoe-rukovodstvo)
 
 # Lists
 * [📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.](https://github.com/postlight/awesome-cms)
