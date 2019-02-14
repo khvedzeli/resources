@@ -60,6 +60,8 @@
 * [You Don't Know JS. A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
 * [Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [The Modern Javascript Tutorial](https://javascript.info/)
+* [The best free JavaScript resources](https://jsbooks.revolunet.com/)
+* [Javascript Challenges](http://tcorral.github.io/javascript-challenges-book/)
 
 # PHP
 * [A curated collection of useful PHP snippets that you can understand in 30 seconds or less.](https://github.com/appzcoder/30-seconds-of-php-code)
@@ -81,6 +83,7 @@
 ## JS
 * [An ultra-simplified explanation of design patterns implemented in javascript](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 * [Learning JavaScript Design Patterns(Book)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
 ## Typescript
 ## PHP
 ## Vue
