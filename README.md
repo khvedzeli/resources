@@ -16,6 +16,7 @@
 * [Scalability](#scalability)
 * [Services](#services)
 * [AWS](#aws)
+* [Devops](#devops)
 * [Lists](#lists)
 * [Jobs](#jobs)
 
@@ -71,6 +72,7 @@
 # Machine Learning
 * [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * [A complete daily plan for studying to become a machine learning engineer.](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+* [**Machine Learning with Javascript**](https://coursehunters.net/course/mashinnoe-obuchenie-s-javascript)
 
 # Design patterns
 * [A curated list of software and architecture related design patterns.](https://github.com/DovAmir/awesome-design-patterns#general-architecture)
@@ -94,6 +96,9 @@
 
 # AWS
 * [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws#api-gateway-basics)
+
+# Devops
+* [**Docker Mastery: The Complete Toolset From a Docker Captain**](https://coursehunters.net/course/docker-mastery-polnyy-nabor-instrumentov-ot-kapitana-dokera)
 
 # Lists
 * [📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.](https://github.com/postlight/awesome-cms)
