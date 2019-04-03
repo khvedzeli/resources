@@ -9,6 +9,7 @@
 * [Javascript](#javascript)
 * [Typescript](#typescript)
 * [PHP](#php)
+* [Go](#go)
 * [React](#react)
 * [Algorithms](#algorithms)
 * [Machine learning](#machine-learning)
@@ -65,6 +66,11 @@
 
 # PHP
 * [A curated collection of useful PHP snippets that you can understand in 30 seconds or less.](https://github.com/appzcoder/30-seconds-of-php-code)
+
+# Go(Golang)
+* [Go: The Complete Developer's Guide (Golang)](https://coursehunters.net/course/go-polnoe-rukovodstvo-razrabotchika-golang)
+
+# React
 
 # Algorithms
 * [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
