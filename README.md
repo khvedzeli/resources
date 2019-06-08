@@ -35,6 +35,8 @@
 * [Martyr2'S Mega Project Ideas List!](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 * [Rosetta Code](http://rosettacode.org)
 * [A Collection of application ideas which can be used to improve your coding skills.](https://github.com/florinpop17/app-ideas)
+* [Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning)
+* [One Hundred Ideas for Computing](https://github.com/samsquire/ideas)
 
 # Interviews
 * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
