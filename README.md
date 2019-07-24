@@ -24,7 +24,17 @@
 # Guides & Developer Roadmap
 * [Roadmap to becoming a web developer in 2019](https://github.com/kamranahmedse/developer-roadmap)
 * [A collection of full-stack resources for programmers.](https://github.com/charlax/professional-programming)
-* [A collection of (mostly) technical things every software developer should know](https://github.com/mtdvio/every-programmer-should-know)
+* [A collection of (mostly) technical things every software developer should know(every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know)
+* [A complete computer science study plan to become a software engineer.(coding-interview-university)](https://github.com/jwasham/coding-interview-university)
+* [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.(system-design-primer
+)](https://github.com/donnemartin/system-design-primer)
+* [Manually curated collection of resources for frontend web developers.(frontend-dev-bookmarks)](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [Curated tutorial and resource links I've collected on React, Redux, ES6, and more(react-redux-links
+)](https://github.com/markerikson/react-redux-links)
+* [Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.(modern-js-cheatsheet)](https://github.com/mbeaudru/modern-js-cheatsheet)
+* [A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development(spellbook-of-modern-webdev)](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
+* [The most essential list of resources for Front-End beginners(Resources-Front-End-Beginner)](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 
 # Programming Principles
 * [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles)
