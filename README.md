@@ -35,6 +35,25 @@
 * [A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development(spellbook-of-modern-webdev)](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
 * [The most essential list of resources for Front-End beginners(Resources-Front-End-Beginner)](https://github.com/thedaviddias/Resources-Front-End-Beginner)
+* [Node Patterns: From Callbacks to Observer](https://github.com/azat-co/node-patterns)
+* [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node)
+* [A curated list for when naming things is done right.](https://github.com/gruhn/awesome-naming)
+* [Learn JavaScript by examples](https://github.com/bmkmanoj/js-by-examples)
+* [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
+* [The Open Source Data Science Masters](https://github.com/datasciencemasters/go)
+* [A list of cool features of Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet)
+* [Awesome List of resources on Agile Software Development](https://github.com/lorabv/awesome-agile)
+* [A guide on how to be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Flexbox cheatsheet](https://github.com/yoksel/flex-cheatsheet)
+* [What happens behind the scenes when we type google.com in a browser?](https://github.com/vasanthk/how-web-works)
+* [A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [A list of Free Software network services and web applications which can be hosted locally](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [JavaScript SDK Design Guide extracted from work and personal experience](https://github.com/hueitan/javascript-sdk-design)
+* [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+* [A guide for styling your node.js / JavaScript code](https://github.com/felixge/node-style-guide)
+* [A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
+
 
 # Programming Principles
 * [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles)
@@ -95,6 +114,7 @@
 * [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 * [A complete daily plan for studying to become a machine learning engineer.](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [**Machine Learning with Javascript**](https://coursehunters.net/course/mashinnoe-obuchenie-s-javascript)
+* [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 # Design patterns
 * [A curated list of software and architecture related design patterns.](https://github.com/DovAmir/awesome-design-patterns#general-architecture)
@@ -129,3 +149,5 @@
 
 # Jobs
 * [Over 400 software engineering companies that are easy to apply to](https://github.com/j-delaney/easy-application)
+* [A curated list of awesome remote jobs and resources](https://github.com/lukasz-madon/awesome-remote-job)
+
