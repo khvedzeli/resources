@@ -127,6 +127,7 @@
 * [Everything you need to prepare for your technical interview](https://github.com/andreis/interview)
 * [Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore](https://github.com/yangshun/front-end-interview-handbook)
 * [Everything you need to know to get the job](https://github.com/kdn251/interviews)
+* [Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
 
 # Books
 * [📚 Freely available programming books ](https://github.com/EbookFoundation/free-programming-books)
@@ -200,6 +201,14 @@
 * [Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter](https://github.com/OpenGenus/cosmos)
 * [Solutions to Introduction to Algorithms](https://github.com/gzc/CLRS)
 * [180+ Algorithm & Data Structure Problems using C++](https://github.com/mandliya/algorithms_and_data_structures)
+* [All Algorithms implemented in C++](https://github.com/TheAlgorithms/C-Plus-Plus)
+* [Repository which contains links and resources on different topics of Computer Science.](https://github.com/vicky002/AlgoWiki)
+* [Interactive Online Platform that Visualizes Algorithms from Code https://algorithm-visualizer.org/](https://github.com/algorithm-visualizer/algorithm-visualizer)
+* [120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.](https://github.com/donnemartin/interactive-coding-challenges)
+* [Python sample codes for robotics algorithms](https://github.com/AtsushiSakai/PythonRobotics)
+* [Bug-tracking for Jeff's algorithms book, notes, etc.](https://github.com/jeffgerickson/algorithms)
+* [JavaScript implementation of different computer science algorithms.](https://github.com/mgechev/javascript-algorithms)
+* [A curated list of awesome Competitive Programming, Algorithm and Data Structure resources](https://github.com/lnishan/awesome-competitive-programming)
 
 # Machine Learning
 * [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
@@ -211,6 +220,7 @@
 * [Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
+* [Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained](https://github.com/trekhleb/homemade-machine-learning)
 
 # Design patterns
 * [A curated list of software and architecture related design patterns.](https://github.com/DovAmir/awesome-design-patterns#general-architecture)
