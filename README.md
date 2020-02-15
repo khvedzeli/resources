@@ -114,6 +114,7 @@
 * [A Collection of application ideas which can be used to improve your coding skills.](https://github.com/florinpop17/app-ideas)
 * [Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning)
 * [One Hundred Ideas for Computing](https://github.com/samsquire/ideas)
+* [Here’s a List of App Ideas You Can Start Coding Today](https://medium.com/better-programming/heres-a-list-of-app-ideas-you-could-start-coding-today-b5f33f94a42e)
 
 # Interviews
 * [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
