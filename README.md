@@ -102,6 +102,7 @@
 * [Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 * [A list of everything that \*could\* go in the head of your document ](https://github.com/joshbuchea/HEAD)
 * [The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.](https://github.com/freeCodeCamp/freeCodeCamp)
+* [Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.](https://github.com/trekhleb/learn-python)
 
 # Programming Principles
 * [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles)
