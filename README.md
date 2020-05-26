@@ -103,6 +103,10 @@
 * [A list of everything that \*could\* go in the head of your document ](https://github.com/joshbuchea/HEAD)
 * [The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.](https://github.com/freeCodeCamp/freeCodeCamp)
 * [Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.](https://github.com/trekhleb/learn-python)
+* [The only Front-End Performance Checklist that runs faster than the others](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+* [📚 A collection of useful resources for building RESTful HTTP+JSON APIs.](https://github.com/yosriady/api-development-tools)
+* [🌈 A Curated List of Checklists ✔︎✔︎](https://github.com/huyingjie/Checklist-Checklist)
+* [Senior Engineer CheckList](https://github.com/littleblah/senior-engineer-checklist)
 
 # Programming Principles
 * [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles)
@@ -270,6 +274,7 @@
 
 # Design
 * [The best design tools and plugins for everything](https://github.com/LisaDziuba/Awesome-Design-Tools)
+* [💎 The Design Checklist for Creative Web Designers and Patient Front-End Developers](https://github.com/thedaviddias/Front-End-Design-Checklist)
 
 # Lists
 * [📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.](https://github.com/postlight/awesome-cms)
@@ -285,6 +290,7 @@
 
 # Startup
 * [Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"](https://github.com/mmccaff/PlacesToPostYourStartup)
+* [https://github.com/leonar15/startup-checklist](https://github.com/leonar15/startup-checklist)
 
 # Documentation
 * [Beautiful static documentation for your API](https://github.com/slatedocs/slate)
