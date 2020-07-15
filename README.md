@@ -134,6 +134,14 @@
 * [Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore](https://github.com/yangshun/front-end-interview-handbook)
 * [Everything you need to know to get the job](https://github.com/kdn251/interviews)
 * [Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
+* [CodingInterviews](https://github.com/jayshah19949596/CodingInterviews)
+* [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig)
+* [Interview Algorithm Questions in Javascript](https://github.com/kennymkchan/interview-questions-in-javascript)
+* [Full-stack web development notes.](https://github.com/8483/notes)
+* [CS Interview Knowledge Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+* [How to pass the Node.js interview of ElemeFE.](https://github.com/ElemeFE/node-interview)
+* [repository is a summary of the basic knowledge of recruiting job seekers](https://github.com/huihut/interview)
+* [LeetCode Problems' Solutions](https://github.com/haoel/leetcode)
 
 # Books
 * [📚 Freely available programming books ](https://github.com/EbookFoundation/free-programming-books)
