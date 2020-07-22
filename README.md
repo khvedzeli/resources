@@ -23,6 +23,7 @@
 * [AWS](#aws)
 * [Devops](#devops)
 * [Security](#security)
+* [Robotics](#robotics)
 * [Design](#design)
 * [Lists](#lists)
 * [Jobs](#jobs)
@@ -279,6 +280,11 @@
 * [Checklist of the most important security countermeasures when designing, testing, and releasing your API](https://github.com/shieldfy/API-Security-Checklist)
 * [A curated list of resources for learning about application security](https://github.com/paragonie/awesome-appsec)
 * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
+
+# Robotics
+* [A list of awesome Robotics resources](https://github.com/kiloreux/awesome-robotics)
+* [Python sample codes for robotics algorithms.](https://github.com/AtsushiSakai/PythonRobotics)
+* [🤖 Places where you can learn robotics (and stuff like that) online 🤖](https://github.com/mithi/robotics-coursework)
 
 # Design
 * [The best design tools and plugins for everything](https://github.com/LisaDziuba/Awesome-Design-Tools)
