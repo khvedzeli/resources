@@ -244,6 +244,7 @@
 * [The software design and architecture roadmap for any developer](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)
 * [A game to test your familiarity with the ‘Gang of Four’ design patterns implemented in JavaScript](https://github.com/zoltantothcom/Design-Patterns-JavaScript)
 * [Sample code for several design patterns in PHP 7.4](https://github.com/domnikl/DesignPatternsPHP)
+* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 
 ## JS
 * [An ultra-simplified explanation of design patterns implemented in javascript](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
