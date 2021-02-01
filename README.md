@@ -108,6 +108,7 @@
 * [📚 A collection of useful resources for building RESTful HTTP+JSON APIs.](https://github.com/yosriady/api-development-tools)
 * [🌈 A Curated List of Checklists ✔︎✔︎](https://github.com/huyingjie/Checklist-Checklist)
 * [Senior Engineer CheckList](https://github.com/littleblah/senior-engineer-checklist)
+* [Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern](https://github.com/kettanaito/naming-cheatsheet)
 
 # Programming Principles
 * [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles)
@@ -301,6 +302,7 @@
 * [Over 400 software engineering companies that are easy to apply to](https://github.com/j-delaney/easy-application)
 * [A curated list of awesome remote jobs and resources](https://github.com/lukasz-madon/awesome-remote-job)
 * [Build fast and easy multiple beautiful resumes and create your best CV ever!](https://github.com/salomonelli/best-resume-ever)
+* [A list of semi to fully remote-friendly companies in tech](https://github.com/remoteintech/remote-jobs)
 
 # Startup
 * [Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"](https://github.com/mmccaff/PlacesToPostYourStartup)
